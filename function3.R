@@ -1,0 +1,1 @@
+barplot(BOD$Time, xlab-'Avg Time speed', main='Time graph")
